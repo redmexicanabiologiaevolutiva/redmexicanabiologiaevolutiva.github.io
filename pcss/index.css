@@ -2411,11 +2411,11 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 #imTextObject_206_tab0 .imVc { vertical-align: middle; }
 #imTextObject_206_tab0 .imVb { vertical-align: bottom; }
 #imTextObject_206_tab0 hr { border-width: 1px 0 0 0; border-style: solid; }
+#imTextObject_206_tab0 .fs18lh1-5 { vertical-align: baseline; font-size: 18pt; line-height: 36px; }
 #imTextObject_206_tab0 .cf1 { color: rgb(255, 255, 255); }
 #imTextObject_206_tab0 .fs26lh1-5 { vertical-align: baseline; font-size: 26pt; line-height: 52px; }
 #imTextObject_206_tab0 .fs20lh1-5 { vertical-align: baseline; font-size: 20pt; line-height: 40px; }
 #imTextObject_206_tab0 .fs13lh1-5 { vertical-align: baseline; font-size: 13pt; line-height: 26px; }
-#imTextObject_206_tab0 .fs18lh1-5 { vertical-align: baseline; font-size: 18pt; line-height: 36px; }
 #imTextObject_206 .text-container {width: 100%;}#imTextObject_206 .text-container {margin: 0 auto; position: relative;overflow: hidden; display: grid; grid-template-rows: 1fr; grid-template-columns: 1fr; background-color: rgba(255, 255, 255, 1); border-style: solid;border-color: rgba(169, 169, 169, 1); }
 #imTextObject_206 .text-container .grid-prop.current-tab {z-index: 1; opacity: 1;  }
 #imTextObject_206 .text-container .grid-prop {grid-area: 1 / 1 / 2 / 2; opacity: 0; box-sizing: border-box; position: relative;  }
@@ -2644,6 +2644,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_206 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_206 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleBorders_206 {  border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+	#imTextObject_206_tab0 .image-1 { width: 100%; max-width: 300px; height: auto; }
 	#imTextObject_206_tab0 .image-5 { width: 100%; max-width: 60px; height: auto; }
 	#imTextObject_206_tab0 .image-2 { width: 100%; max-width: 66px; height: auto; }
 	#imTextObject_206_tab0 .image-6 { width: 100%; max-width: 60px; height: auto; }
@@ -2878,6 +2879,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_206 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_206 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleBorders_206 {  border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+	#imTextObject_206_tab0 .image-1 { width: 100%; max-width: 300px; height: auto; }
 	#imTextObject_206_tab0 .image-5 { width: 100%; max-width: 60px; height: auto; }
 	#imTextObject_206_tab0 .image-2 { width: 100%; max-width: 66px; height: auto; }
 	#imTextObject_206_tab0 .image-6 { width: 100%; max-width: 60px; height: auto; }
@@ -3112,6 +3114,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_206 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_206 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleBorders_206 {  border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+	#imTextObject_206_tab0 .image-1 { width: 100%; max-width: 300px; height: auto; }
 	#imTextObject_206_tab0 .image-5 { width: 100%; max-width: 60px; height: auto; }
 	#imTextObject_206_tab0 .image-2 { width: 100%; max-width: 66px; height: auto; }
 	#imTextObject_206_tab0 .image-6 { width: 100%; max-width: 60px; height: auto; }
@@ -3346,6 +3349,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_206 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_206 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleGraphics_206 { box-sizing: border-box; }
+	#imTextObject_206_tab0 .image-1 { width: 100%; max-width: 300px; height: auto; }
 	#imTextObject_206_tab0 .image-5 { width: 100%; max-width: 60px; height: auto; }
 	#imTextObject_206_tab0 .image-2 { width: 100%; max-width: 66px; height: auto; }
 	#imTextObject_206_tab0 .image-6 { width: 100%; max-width: 60px; height: auto; }
