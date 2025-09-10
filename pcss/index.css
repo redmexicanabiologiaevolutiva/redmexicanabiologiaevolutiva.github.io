@@ -2801,7 +2801,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_269 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_269 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleBorders_269 {  border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imTextObject_269_tab0 .image-1 { width: 100%; max-width: 248px; height: auto; }
+	#imTextObject_269_tab0 .image-0 { width: 100%; max-width: 248px; height: auto; }
 	#imTextObject_269 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
 	#imCell_231 { padding-top: 20px; padding-bottom: 20px; padding-left: 20px; padding-right: 20px; }
 	#imCell_231 { grid-template-rows: [row-content] auto ; }
@@ -3071,7 +3071,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_269 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_269 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleBorders_269 {  border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imTextObject_269_tab0 .image-1 { width: 100%; max-width: 248px; height: auto; }
+	#imTextObject_269_tab0 .image-0 { width: 100%; max-width: 248px; height: auto; }
 	#imTextObject_269 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
 	#imCell_231 { padding-top: 20px; padding-bottom: 20px; padding-left: 13px; padding-right: 13px; }
 	#imCell_231 { grid-template-rows: [row-content] auto ; }
@@ -3341,7 +3341,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_269 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_269 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleBorders_269 {  border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imTextObject_269_tab0 .image-1 { width: 100%; max-width: 248px; height: auto; }
+	#imTextObject_269_tab0 .image-0 { width: 100%; max-width: 248px; height: auto; }
 	#imTextObject_269 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
 	#imCell_231 { padding-top: 20px; padding-bottom: 20px; padding-left: 12px; padding-right: 12px; }
 	#imCell_231 { grid-template-rows: [row-content] auto ; }
@@ -3611,7 +3611,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_269 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_269 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleGraphics_269 { box-sizing: border-box; }
-	#imTextObject_269_tab0 .image-1 { width: 100%; max-width: 248px; height: auto; }
+	#imTextObject_269_tab0 .image-0 { width: 100%; max-width: 248px; height: auto; }
 	#imTextObject_269 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
 	#imCell_231 { padding-top: 20px; padding-bottom: 20px; padding-left: 5px; padding-right: 5px; }
 	#imCell_231 { grid-template-rows: [row-content] auto ; }
