@@ -2302,8 +2302,9 @@ html:not(.no-cssanimations) #imCell_250.animated {   -webkit-animation-duration:
 #imTextObject_250_tab0 hr { border-width: 1px 0 0 0; border-style: solid; }
 #imTextObject_250_tab0 .fs26lh1-5 { vertical-align: baseline; font-size: 26pt; line-height: 52px; }
 #imTextObject_250_tab0 .cf1 { color: rgb(0, 115, 133); }
-#imTextObject_250_tab0 .fs13lh1-5 { vertical-align: baseline; font-size: 13pt; line-height: 26px; }
 #imTextObject_250_tab0 .cf2 { color: rgb(2, 2, 66); }
+#imTextObject_250_tab0 .cf3 { color: rgb(35, 49, 93); }
+#imTextObject_250_tab0 .fs13lh1-5 { vertical-align: baseline; font-size: 13pt; line-height: 26px; }
 #imTextObject_250 .text-container {width: 100%;}#imTextObject_250 .text-container {margin: 0 auto; position: relative;overflow: hidden; display: grid; grid-template-rows: 1fr; grid-template-columns: 1fr; background-color: rgba(255, 255, 255, 1); border-style: solid;border-color: rgba(169, 169, 169, 1); }
 #imTextObject_250 .text-container .grid-prop.current-tab {z-index: 1; opacity: 1;  }
 #imTextObject_250 .text-container .grid-prop {grid-area: 1 / 1 / 2 / 2; opacity: 0; box-sizing: border-box; position: relative;  }
