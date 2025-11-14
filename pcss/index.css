@@ -1470,8 +1470,6 @@ html:not(.no-cssanimations) #imCell_242.animated {   -webkit-animation-duration:
 #imTextObject_242_tab0 .fs13lh1-15 { vertical-align: baseline; font-size: 13pt; line-height: 20px; }
 #imTextObject_242_tab0 .cf1 { color: rgb(255, 255, 255); }
 #imTextObject_242_tab0 .fs14lh1-15 { vertical-align: baseline; font-size: 14pt; line-height: 21px; }
-#imTextObject_242_tab0 .fs16lh1-15 { vertical-align: baseline; font-size: 16pt; line-height: 25px; }
-#imTextObject_242_tab0 .fs18lh1-15 { vertical-align: baseline; font-size: 18pt; line-height: 28px; }
 #imTextObject_242_tab0 .fs12lh1-15 { vertical-align: baseline; font-size: 12pt; line-height: 18px; }
 #imTextObject_242_tab0 .ff1 { font-family: 'Poppins'; }
 #imTextObject_242 .text-container {width: 100%;}#imTextObject_242 .text-container {margin: 0 auto; position: relative;overflow: hidden; display: grid; grid-template-rows: 1fr; grid-template-columns: 1fr; background-color: rgba(255, 255, 255, 1); border-style: solid;border-color: rgba(169, 169, 169, 1); }
@@ -2588,7 +2586,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_242 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_242 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleBorders_242 {  border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imTextObject_242_tab0 .image-0 { width: 100%; max-width: 280px; height: auto; }
+	#imTextObject_242_tab0 .image-1 { width: 100%; max-width: 280px; height: auto; }
 	#imTextObject_242 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
 	#imCell_264 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_264 { grid-template-rows: [row-content] auto ; }
@@ -2836,7 +2834,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_242 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_242 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleBorders_242 {  border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imTextObject_242_tab0 .image-0 { width: 100%; max-width: 280px; height: auto; }
+	#imTextObject_242_tab0 .image-1 { width: 100%; max-width: 280px; height: auto; }
 	#imTextObject_242 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
 	#imCell_264 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_264 { grid-template-rows: [row-content] auto ; }
@@ -3084,7 +3082,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_242 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_242 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleBorders_242 {  border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imTextObject_242_tab0 .image-0 { width: 100%; max-width: 280px; height: auto; }
+	#imTextObject_242_tab0 .image-1 { width: 100%; max-width: 280px; height: auto; }
 	#imTextObject_242 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
 	#imCell_264 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_264 { grid-template-rows: [row-content] auto ; }
@@ -3332,7 +3330,7 @@ html:not(.no-cssanimations) #imCell_206.animated {   -webkit-animation-duration:
 	#imCell_242 { grid-template-rows: [row-content] auto ; }
 	#imTextObject_242 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; grid-row: row-content / span 1; grid-column: 1 / -1; }
 	#imCellStyleGraphics_242 { box-sizing: border-box; }
-	#imTextObject_242_tab0 .image-0 { width: 100%; max-width: 280px; height: auto; }
+	#imTextObject_242_tab0 .image-1 { width: 100%; max-width: 280px; height: auto; }
 	#imTextObject_242 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
 	#imCell_264 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_264 { grid-template-rows: [row-content] auto ; }
